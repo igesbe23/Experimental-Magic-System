@@ -1,2 +1,2 @@
 # Experimental-Magic-System
-Repositorio de fantasía, con scripts de Matlab que realizan simulaciones de densidad de magia en un sistema de magia elemental contextual. 
+Repositorio de fantasía, con scripts de Matlab que realizan simulaciones de densidad de magia en un sistema de magia elemental contextual. La densidad de magia M debida a la interacción de dos elementos fantásticos equivale a la multiplicación de los flujos elementales opuestos calculados por medio del laplaciano asumiendo que la densidad elemental se distribuye por un proceso estocástico con paso al continuo similar al de la ecuación del calor.
